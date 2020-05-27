@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">moodie</string>
+
+    <string name="back4app_server_url">http://ec2-35-177-166-89.eu-west-2.compute.amazonaws.com:80/parse/</string>
+    <string name="back4app_app_id">60a24f48e12159f0cca10c0e5a528397d49d93f8</string>
+    <string name="back4app_client_key">81e59506951130dd314c4aedd05dff7d5b5c80f4</string>
+    <string name="title_activity_home">HOME</string>
+
+</resources>
